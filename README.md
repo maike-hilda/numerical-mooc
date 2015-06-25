@@ -1,4 +1,4 @@
-Just a bunch of gibberish!
+Just a bunch of gibberish! ...and some more gibberish
 
 #Practical Numerical Methods with Python
 
